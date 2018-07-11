@@ -1,2 +1,2 @@
 # concurrencyDemo
-并发课程代码
+并发练习代码
